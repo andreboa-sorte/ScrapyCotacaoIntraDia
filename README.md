@@ -2,13 +2,13 @@
 
 ![Sem título](https://user-images.githubusercontent.com/53584953/139541950-6ba814d5-c168-4ca2-bd79-0ef92595423c.png)
 
-***
-
 ## Objetivo: coletar os dados de cotação intra dia do site https://valorinveste.globo.com 
 
 
 ### Demostração de como a informação é aprensetada no site:
 ![salvar exemplo de como é apresentado os dados](https://user-images.githubusercontent.com/53584953/139541959-7a9330b2-01fb-4422-8ace-235d7591916d.png)
+
+***
 
 ## Informações sobre o codigo
 
